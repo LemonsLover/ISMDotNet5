@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "Task\Task.csproj", "{2026F15E-11C0-44E3-93DD-CB2D4187258E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixLibrary", "DataGridViewVisualizer\MatrixLibrary.csproj", "{2E8A6D16-2BCB-43DD-B17E-890ABFCB01AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2026F15E-11C0-44E3-93DD-CB2D4187258E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2026F15E-11C0-44E3-93DD-CB2D4187258E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2026F15E-11C0-44E3-93DD-CB2D4187258E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2026F15E-11C0-44E3-93DD-CB2D4187258E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E8A6D16-2BCB-43DD-B17E-890ABFCB01AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8A6D16-2BCB-43DD-B17E-890ABFCB01AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8A6D16-2BCB-43DD-B17E-890ABFCB01AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8A6D16-2BCB-43DD-B17E-890ABFCB01AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E3E8D05-5797-45FB-8EE8-3AEB7EB1702B}
+	EndGlobalSection
+EndGlobal

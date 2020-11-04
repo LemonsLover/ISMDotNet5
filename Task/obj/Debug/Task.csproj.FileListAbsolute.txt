@@ -1,0 +1,13 @@
+C:\Users\dizon\source\repos\ISMDotNet5\Task\bin\Debug\Task.exe.config
+C:\Users\dizon\source\repos\ISMDotNet5\Task\bin\Debug\Task.exe
+C:\Users\dizon\source\repos\ISMDotNet5\Task\bin\Debug\Task.pdb
+C:\Users\dizon\source\repos\ISMDotNet5\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\dizon\source\repos\ISMDotNet5\Task\obj\Debug\Task.Form1.resources
+C:\Users\dizon\source\repos\ISMDotNet5\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\dizon\source\repos\ISMDotNet5\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\dizon\source\repos\ISMDotNet5\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\dizon\source\repos\ISMDotNet5\Task\obj\Debug\Task.exe
+C:\Users\dizon\source\repos\ISMDotNet5\Task\obj\Debug\Task.pdb
+C:\Users\dizon\source\repos\ISMDotNet5\Task\bin\Debug\DataGridViewVisualizer.dll
+C:\Users\dizon\source\repos\ISMDotNet5\Task\bin\Debug\DataGridViewVisualizer.pdb
+C:\Users\dizon\source\repos\ISMDotNet5\Task\obj\Debug\Task.csproj.CopyComplete

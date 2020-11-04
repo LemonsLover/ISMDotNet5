@@ -1,0 +1,6 @@
+C:\Users\dizon\source\repos\ISMDotNet5\DataGridViewVisualizer\bin\Debug\DataGridViewVisualizer.dll
+C:\Users\dizon\source\repos\ISMDotNet5\DataGridViewVisualizer\bin\Debug\DataGridViewVisualizer.pdb
+C:\Users\dizon\source\repos\ISMDotNet5\DataGridViewVisualizer\obj\Debug\MatrixLibrary.csprojAssemblyReference.cache
+C:\Users\dizon\source\repos\ISMDotNet5\DataGridViewVisualizer\obj\Debug\MatrixLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dizon\source\repos\ISMDotNet5\DataGridViewVisualizer\obj\Debug\DataGridViewVisualizer.dll
+C:\Users\dizon\source\repos\ISMDotNet5\DataGridViewVisualizer\obj\Debug\DataGridViewVisualizer.pdb
