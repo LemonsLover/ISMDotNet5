@@ -91,7 +91,7 @@ namespace MatrixLibrary
                 }
 
             return max;
-        } // !!!!!!!!!!!!!!!!
+        }
         public static int AmountOfNonZeroRows(int[,] arr)
         {
             int tmp = 0, amount = 0;
