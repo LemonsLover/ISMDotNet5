@@ -270,11 +270,11 @@ namespace MatrixLibrary
             int minSum_up = int.MaxValue, minSum_down = int.MaxValue, sum_up = 0, sum_down = 0,
                 min, step_a = 0, step = 1;
 
-            for (int i = 0; i < arr.GetLength(0); i++)
+            for (int j = 0; j < arr.GetLength(1); j++)
             {
-                for (int j = 0; j < arr.GetLength(1); j++)
+                for (int i = 0; i < arr.GetLength(0); i++)
                 {
-                    revertArr[i, j] = arr[i, arr.GetLength(1) - 1 - step_a];
+                    revertArr[i, j] = arr[arr.GetLength(0) - 1 - step_a, j];
                     step_a++;
                 }
                 step_a = 0;
@@ -288,7 +288,7 @@ namespace MatrixLibrary
                     {
                         if (i + step == j)
                         {
-                            sum_up += Math.Abs(arr[i, j]);
+                            sum_up += Math.Abs(revertArr[i, j]);
                         }
                     }
                 }
@@ -302,7 +302,7 @@ namespace MatrixLibrary
                     {
                         if (i - step == j)
                         {
-                            sum_down += Math.Abs(arr[i, j]);
+                            sum_down += Math.Abs(revertArr[i, j]);
                         }
                     }
                 }
